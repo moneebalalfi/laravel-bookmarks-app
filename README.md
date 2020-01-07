@@ -1,4 +1,4 @@
-#Hello, This Is A simple Bookmarks Manager APP Using Laravel, Bootstrap.
+#Hello, This Is A simple Bookmarks Manager APP Using Laravel, Bootstrap, And little bit of Ajax.
 ##How to Setup a Laravel Project You Cloned from Github.com :: 
 https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
